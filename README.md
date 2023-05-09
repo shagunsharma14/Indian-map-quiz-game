@@ -76,6 +76,20 @@ while len(guessed_states_ut) < 37:
 - Customize the game as needed by modifying the prompts, screen dimensions, or any additional functionalities.
 - Have fun playing and learning about the Indian states and UTs!
 
+## How to Play
+
+To play the "Indian Quiz Game," follow these steps:
+
+1. Run the Python script.
+2. A window will appear displaying an interactive map of India.
+3. Study the map and familiarize yourself with the different states and union territories.
+4. The game will prompt you to enter the name of a state or union territory. Type your answer and press Enter.
+5. If your answer is correct, the state/union territory will be marked on the map, and you can proceed to guess the next one.
+6. Continue guessing until you have identified all 37 states and union territories, or you can exit the game at any time.
+7. To exit the game, simply type "Exit" when prompted for the next answer.
+8. After exiting the game, you will be provided with a list of any states or union territories that you missed. This can serve as a learning opportunity to enhance your knowledge.
+9. Have fun and challenge yourself to guess all the states and union territories correctly!
+![how-to-play-gif.gif](how-to-play-gif.gif)
 ## License
 
 This code is licensed under the [MIT License](LICENSE).
